@@ -1,6 +1,6 @@
 FROM python:3.12-slim
 
-# Set environment variables
+# Set environment variabless
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
